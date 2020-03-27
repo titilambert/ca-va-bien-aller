@@ -2,8 +2,11 @@
 
 Il etait une fois, l'histoire d'un peuple qui se retrouva face à un immense défi. Il devait traverser une terrible épreuve complètement inconnue.
 
-Le chef, Mr Legault, ![Mr Legault][]
+Le chef, Mr Legault, 
 
+| ![Mr Legault][] | ![Dr. Arruda][] |
+
+[Dr. Arruda]: images/arruda.png "Dr. Arruda"
 [Mr Legault]: images/legault.png "Mr Legault"
 
 la directrice des anges gardiens, Mme McCann ainsi que le druide, Dr. Arruda, commencèrent à prévenir tout les membres de ce peuple et proposèrent des idées pour éviter le pire et expliquèrent ce qu'ils pensaient etre le mieux à faire pour traverser cette épreuve.
