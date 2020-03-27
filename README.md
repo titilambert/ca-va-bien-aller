@@ -2,9 +2,7 @@
 
 Il etait une fois, l'histoire d'un peuple qui se retrouva face à un immense défi. Il devait traverser une terrible épreuve complètement inconnue.
 
-Le chef, Mr Legault,
-
-![Mr Legault][]
+Le chef, Mr Legault, ![Mr Legault][]
 
 [Mr Legault]: images/legault.png "Mr Legault"
 
