@@ -4,6 +4,8 @@ Il etait une fois, l'histoire d'un peuple qui se retrouva face à un immense dé
 
 Le chef, Mr Legault,
 
+![Mr Legault][]
+
 [Mr Legault]: images/legault.png "Mr Legault"
 
 la directrice des anges gardiens, Mme McCann ainsi que le druide, Dr. Arruda, commencèrent à prévenir tout les membres de ce peuple et proposèrent des idées pour éviter le pire et expliquèrent ce qu'ils pensaient etre le mieux à faire pour traverser cette épreuve.
