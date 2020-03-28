@@ -115,4 +115,4 @@ La suite de l'histoire n'est pas encore écrite... C'est à vous de le faire !
 
 ---
 
-[Cette page web](https://github.com/titilambert/ca-va-bien-aller) est maintenue par [titilambert](https://github.com/titilambert/).
+[Cette page web](https://github.com/titilambert/ca-va-bien-aller) est maintenue par [titilambert](https://github.com/titilambert/)
