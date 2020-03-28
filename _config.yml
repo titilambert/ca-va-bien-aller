@@ -13,4 +13,5 @@ description: L'incroyable épreuve de tout un peuple
 show_downloads: false
 
 github:
-  is_project_page: false
+  #is_project_page: false
+  is_project_page: true
