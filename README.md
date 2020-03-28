@@ -1,8 +1,9 @@
-# Ca Va Bien Aller
+# Il etait une fois,
 
-Il etait une fois, l'histoire d'un peuple qui se retrouva face à un immense défi. Il devait traverser une terrible épreuve complètement inconnue.
+L'histoire d'un peuple qui se retrouva face à un immense défi. Il devait traverser une terrible épreuve complètement inconnue.
 
 ---
+# Les trois guides
 
 Le chef, Mr Legault, la directrice des anges gardiens, Mme McCann ainsi que le druide, Dr. Arruda, commencèrent à prévenir tous les gens de ce peuple en expliquant qu'il fallait faire quelque chose pour éviter le pire et essayant de trouver des idées pour mieux traverser cette épreuve.
 
@@ -17,6 +18,8 @@ Le chef, Mr Legault, la directrice des anges gardiens, Mme McCann ainsi que le d
 
 ---
 
+# Le choix du peuple
+
 Après une écoute attentive, le peuple choisi d'utiliser un arc-en-ciel pour rejoindre l'autre coté de l'épreuve.
 
 Les chefs mirent en garde le peuple: 
@@ -28,6 +31,8 @@ Les chefs mirent en garde le peuple:
 
 ---
 
+# La courbe
+
 Alors que, Mr. Legault travaillait fort avec son marteau pour essayer applanir l'arc-en-ciel afin de faciliter l'ascension des gens à l'intérieur. Il demanda aux plus jeunes de soutenir les plus agés à traverser l'arc-en-ciel.
 
 ![MrLegaultMarteau][]
@@ -36,12 +41,16 @@ Alors que, Mr. Legault travaillait fort avec son marteau pour essayer applanir l
 
 ---
 
+# Les anges gardiens
+
 Mme McCann rassura les plus fragiles:
 > "Quand vous serez en haut de l'arc-en-ciel, si vous avez du mal à respirer, les anges-gardiens seront là pour vous aider !"
 
 IMAGE
 
 ---
+
+# Les conseils du druide
 
 Alors le peuple commenca à se préparer pour la traversée de l'arc-en-ciel et c'est à ce moment que Dr. Arruda dit:
 > "La montée dans l'arc-en-ciel sera très difficile !"
@@ -61,6 +70,8 @@ Il poursuivi:
 
 ---
 
+# L'ascension
+
 Puis il prévint:
 > "Lorsque que nous serons en haut de l'arc-en-ciel, nous pourrions tomber sur d'autres embuches ou pièges."
 
@@ -73,7 +84,9 @@ Et il termina par une phrase étrange et mystèrieuse:
 
 ---
 
+# L'inconnue
+
 IMAGE
 
-La suite de l'histoire n'est pas encore écrite... à vous de le faire !
+La suite de l'histoire n'est pas encore écrite... C'est à vous de le faire !
 
