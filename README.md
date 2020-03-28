@@ -27,7 +27,7 @@ Les chefs mirent en garde le peuple: "Cela ne sera pas facile ! Il nous faudra d
 
 ---
 
-Alors que, Mr. Legault travaillait fort avec son marteau pour essayer applanir l'arc-en-ciel afin de faciliter la montée des gens dans l'arc-en-ciel. Il demanda aux plus jeunes d'aider les plus agés à traverser l'arc-en-ciel.
+Alors que, Mr. Legault travaillait fort avec son marteau pour essayer applanir l'arc-en-ciel afin de faciliter l'ascension des gens à l'intérieur. Il demanda aux plus jeunes de soutenir les plus agés à traverser l'arc-en-ciel.
 
 ![MrLegaultMarteau][]
 
@@ -39,6 +39,8 @@ Mme McCann rassura les plus fragiles: "Quand vous serez en haut de l'arc-en-ciel
 
 IMAGE
 
+---
+
 Alors le peuple commenca à se préparer pour la traversée de l'arc-en-ciel et c'est à ce moment que Dr. Arruda dit:
 "La montée dans l'arc-en-ciel sera très difficile !"
 Il poursuivi: "Mais s'il vous plait, suivez ces trois conseils, cela facilitera les choses:"
@@ -46,7 +48,9 @@ Il poursuivi: "Mais s'il vous plait, suivez ces trois conseils, cela facilitera 
 "2. On doit laisser de l'espace entre vous et la personne qui est devant"
 "3. On aura besoin de force, alors mangeons des tartelettes portugaises !"
 
-IMAGE
+![ArrudaPie][]
+
+[ArrudaPie]: images/arruda-pie.png
 
 ---
 
@@ -54,7 +58,10 @@ Puis il prévint: "lorsque que nous serons en haut de l'arc-en-ciel, nous pourri
 Et il termina par une phrase étrange et mystèrieuse:
 "Une échelle impossible à grimper pourrait se transformer en porte menant directement de l'autre coté. Cela dépendra des actions de chacun d'entre nous !"
 
-...
+
+IMAGE
+
+---
 
 La suite de l'histoire n'est pas encore écrite... à vous de le faire !
 
