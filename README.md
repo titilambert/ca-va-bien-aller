@@ -1,6 +1,6 @@
-# Il etait une fois,
+# Il etait une fois, ...
 
-L'histoire d'un peuple qui se retrouva face à un immense défi. Il devait traverser une terrible épreuve complètement inconnue.
+... l'histoire d'un peuple qui se retrouva face à un immense défi. Il devait traverser une terrible épreuve complètement inconnue.
 
 ---
 # Les trois guides
