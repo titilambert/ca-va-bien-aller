@@ -89,4 +89,3 @@ Et il termina par une phrase étrange et mystèrieuse:
 IMAGE
 
 La suite de l'histoire n'est pas encore écrite... C'est à vous de le faire !
-
