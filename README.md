@@ -61,11 +61,11 @@ Alors le peuple commenca à se préparer pour la traversée de l'arc-en-ciel et 
 Il poursuivi:
 > "Mais s'il vous plait, suivez ces trois conseils, cela facilitera les choses:"
 
-> "1. On doit se laver les mains avant de monter dans l'arc-en-ciel !"
+> "1. Nous devons nous laver les mains avant de monter dans l'arc-en-ciel !"
 
-> "2. On doit laisser de l'espace entre vous et la personne qui est devant"
+> "2. Nous ne pouvons pas tous embarquer en même temps de l'arc-en-ciel. Alors, allons y petit à petit en laissant une distance de sécurité en chaque personne !"
 
-> "3. On aura besoin de force, alors mangeons des tartelettes portugaises !"
+> "3. Nous aurons besoin de force, alors mangeons des tartelettes portugaises !"
 
 ![AroumbaPie][]
 
@@ -89,6 +89,8 @@ Et il termina par une phrase étrange et mystèrieuse:
 
 # L'inconnue
 
-IMAGE
-
 La suite de l'histoire n'est pas encore écrite... C'est à vous de le faire !
+
+![end][]
+
+[end]: images/end.png
