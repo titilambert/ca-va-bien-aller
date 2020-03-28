@@ -41,7 +41,7 @@ D'abord,
 > "S'il vous plait, éviter de vous déplacer, en attendant de traverser l'arc-en-ciel"
 
 Puis,
-> "Vous, qui donnez un peu de votre vie, pour que les Anges Gardiens puis en sauver d'autres, s'il vous plait, continuez !"
+> "Vous, qui donnez un peu de votre énergie vitale, pour que les Anges Gardiens puis en sauver d'autres, s'il vous plait, continuez !"
 
 Ensuite,
 > "Vous, qui avez de l'expérience dans le métier d'Ange Gardien, vous pouvez aider le peuple, rejoinez nous !"
