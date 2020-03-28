@@ -48,8 +48,11 @@ Alors le peuple commenca à se préparer pour la traversée de l'arc-en-ciel et 
 
 Il poursuivi:
 > "Mais s'il vous plait, suivez ces trois conseils, cela facilitera les choses:"
+
 > "1. On doit se laver les mains avant de monter dans l'arc-en-ciel !"
+
 > "2. On doit laisser de l'espace entre vous et la personne qui est devant"
+
 > "3. On aura besoin de force, alors mangeons des tartelettes portugaises !"
 
 ![ArrudaPie][]
