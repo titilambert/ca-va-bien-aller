@@ -60,6 +60,7 @@ Et fini avec,
 
 De son côté, McCange rassura les plus fragiles:
 > "Quand vous serez en haut de l'arc-en-ciel, si vous avez du mal à respirer, les Anges Gardiens seront là pour vous aider !"
+
 et elle poursuivi:
 > "Ne vous inquiétiez pas, les Anges Gardiens auront tout ce dont ils ont besoin pour vous aider !"
 
