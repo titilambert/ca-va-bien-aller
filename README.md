@@ -8,10 +8,10 @@
 
 Le chef, Letto, la gardienne des Anges Gardiens, McCange, ainsi que le druide, Aroumba, commencèrent à prévenir tous les gens de ce peuple en expliquant qu'il fallait faire quelque chose pour éviter le pire et en se creusant la tête pour trouver des idées pour mieux surmonter ce danger.
 
-| Druide Aroumba | Letto | McCange |
+| Aroumba | Letto | McCange |
 | :-: | :-: | :-: |
 | ![Aroumba][] | ![Letto][] | ![McCange][] |
-| Le druide | Le chef | La directrice des Anges Gardiens |
+| Le druide | Le chef | La gardienne des Anges Gardiens |
 
 [Aroumba]: images/aroumba.png "Aroumba"
 [McCange]: images/mccange.png "McCange"
