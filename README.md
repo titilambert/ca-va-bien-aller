@@ -4,6 +4,7 @@ Il etait une fois, l'histoire d'un peuple qui se retrouva face à un immense dé
 
 Le chef, Mr Legault, 
 
+| :-: | :-: | :-: |
 | Dr. Arruda ![Dr. Arruda][] | Mr Legault ![Mr Legault][] | Mme McCann ![Mme McCann][] |
 
 [Dr. Arruda]: images/arruda.png "Dr. Arruda"
