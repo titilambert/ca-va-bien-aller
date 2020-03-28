@@ -1,20 +1,21 @@
-# Il etait une fois, ...
+# Il était une fois, ...
 
 ... l'histoire d'un peuple qui se retrouva face à un immense défi. Il devait traverser une terrible épreuve complètement inconnue.
 
 ---
+
 # Les trois guides
 
-Le chef, Mr Legault, la directrice des anges gardiens, Mme McCann ainsi que le druide, Dr. Arruda, commencèrent à prévenir tous les gens de ce peuple en expliquant qu'il fallait faire quelque chose pour éviter le pire et essayant de trouver des idées pour mieux traverser cette épreuve.
+Le chef, Letto, la gardienne des anges gardiens, McCange ainsi que le druide, Aroumba, commencèrent à prévenir tous les gens de ce peuple en expliquant qu'il fallait faire quelque chose pour éviter le pire et essayant de trouver des idées pour mieux traverser cette épreuve.
 
-| Dr. Arruda | Mr Legault | Mme McCann |
+| Druide Aroumba | Letto | McCange |
 | :-: | :-: | :-: |
-| ![Dr. Arruda][] | ![Mr Legault][] | ![Mme McCann][] |
+| ![Aroumba][] | ![Letto][] | ![McCange][] |
 | Le druide | Le chef | La directrice des anges gardiens |
 
-[Dr. Arruda]: images/arruda.png "Dr. Arruda"
-[Mme McCann]: images/mccann.png "McCann"
-[Mr Legault]: images/legault.png "Mr Legault"
+[Aroumba]: images/aroumba.png "Aroumba"
+[McCange]: images/mccange.png "McCange"
+[Letto]: images/letto.png "Letto"
 
 ---
 
@@ -22,7 +23,7 @@ Le chef, Mr Legault, la directrice des anges gardiens, Mme McCann ainsi que le d
 
 Après une écoute attentive, le peuple choisi d'utiliser un arc-en-ciel pour rejoindre l'autre coté de l'épreuve.
 
-Les chefs mirent en garde le peuple: 
+Les chefs mirent en garde le peuple:
 > "Cela ne sera pas facile ! Il nous faudra de la discipline, du courage et surtout de la générosité !"
 
 ![rainbow][]
@@ -31,28 +32,30 @@ Les chefs mirent en garde le peuple:
 
 ---
 
-# La courbe
+# La courbe de l'arc-en-ciel
 
-Alors que, Mr. Legault travaillait fort avec son marteau pour essayer applanir l'arc-en-ciel afin de faciliter l'ascension des gens à l'intérieur. Il demanda aux plus jeunes de soutenir les plus agés à traverser l'arc-en-ciel.
+Alors que, Letto travaillait fort avec son marteau pour essayer applanir l'arc-en-ciel afin de faciliter l'ascension des gens à l'intérieur. Il demanda aux plus jeunes de soutenir les plus agés à traverser l'arc-en-ciel.
 
-![MrLegaultMarteau][]
+![LettoMarteau][]
 
-[MrLegaultMarteau]: images/legault-hammer.png
+[LettoMarteau]: images/letto-hammer.png
 
 ---
 
 # Les anges gardiens
 
-Mme McCann rassura les plus fragiles:
+De son côté, McCange rassura les plus fragiles:
 > "Quand vous serez en haut de l'arc-en-ciel, si vous avez du mal à respirer, les anges-gardiens seront là pour vous aider !"
 
-IMAGE
+![McCangeWings]
+
+[McCangeWings]: images/mccange-wings.png
 
 ---
 
 # Les conseils du druide
 
-Alors le peuple commenca à se préparer pour la traversée de l'arc-en-ciel et c'est à ce moment que Dr. Arruda dit:
+Alors le peuple commenca à se préparer pour la traversée de l'arc-en-ciel et c'est à ce moment que Aroumba dit:
 > "La montée dans l'arc-en-ciel sera très difficile !"
 
 Il poursuivi:
@@ -64,9 +67,9 @@ Il poursuivi:
 
 > "3. On aura besoin de force, alors mangeons des tartelettes portugaises !"
 
-![ArrudaPie][]
+![AroumbaPie][]
 
-[ArrudaPie]: images/arruda-pie.png
+[AroumbaPie]: images/aroumba-pie.png
 
 ---
 
