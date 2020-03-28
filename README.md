@@ -21,7 +21,7 @@ Le chef, Letto, la gardienne des Anges Gardiens, McCange, ainsi que le druide, A
 
 # Le choix du peuple
 
-Après une écoute attentive, le peuple choisi d'utiliser un arc-en-ciel pour vaincre ce danger.
+Après une écoute attentive, le peuple choisi d'utiliser un arc-en-ciel pour passer au dessus de ce danger.
 
 Les chefs mirent en garde le peuple:
 > "Cela ne sera pas facile ! Il nous faudra de la discipline, du courage et surtout de la générosité !"
