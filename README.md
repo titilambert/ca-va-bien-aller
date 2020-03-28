@@ -111,3 +111,8 @@ La suite de l'histoire n'est pas encore écrite... C'est à vous de le faire !
 ![end][]
 
 [end]: images/end.png
+
+
+---
+
+[ca-va-bien-aller](https://github.com/titilambert/ca-va-bien-aller) is maintained by [titilambert](https://github.com/titilambert/).
