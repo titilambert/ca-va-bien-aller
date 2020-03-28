@@ -30,6 +30,7 @@ Les chefs mirent en garde le peuple: "Cela ne sera pas facile ! Il nous faudra d
 Alors que, Mr. Legault travaillait fort avec son marteau pour essayer applanir l'arc-en-ciel afin de faciliter la montée des gens dans l'arc-en-ciel. Il demanda aux plus jeunes d'aider les plus agés à traverser l'arc-en-ciel.
 
 ![MrLegaultMarteau][]
+
 [MrLegaultMarteau]: images/legault-hammer.png
 
 ---
