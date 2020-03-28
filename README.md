@@ -2,16 +2,16 @@
 
 Il etait une fois, l'histoire d'un peuple qui se retrouva face à un immense défi. Il devait traverser une terrible épreuve complètement inconnue.
 
-Le chef, Mr Legault, 
+Le chef, Mr Legault, la directrice des anges gardiens, Mme McCann ainsi que le druide, Dr. Arruda, commencèrent à prévenir tous les gens de ce peuple en expliquant qu'il fallait faire quelque chose pour éviter le pire et essayant de trouver des idées pour mieux traverser cette épreuve.
 
+| Dr. Arruda | Mr Legault | Mme McCann |
 | :-: | :-: | :-: |
-| Dr. Arruda ![Dr. Arruda][] | Mr Legault ![Mr Legault][] | Mme McCann ![Mme McCann][] |
+| ![Dr. Arruda][] | ![Mr Legault][] | ![Mme McCann][] |
 
 [Dr. Arruda]: images/arruda.png "Dr. Arruda"
 [Mme McCann]: images/mccann.png "McCann"
 [Mr Legault]: images/legault.png "Mr Legault"
 
-la directrice des anges gardiens, Mme McCann ainsi que le druide, Dr. Arruda, commencèrent à prévenir tout les membres de ce peuple et proposèrent des idées pour éviter le pire et expliquèrent ce qu'ils pensaient etre le mieux à faire pour traverser cette épreuve.
 
 Après une écoute attentive, le peuple choisi d'utiliser un arc-en-ciel pour rejoindre l'autre coté de l'épreuve.
 
