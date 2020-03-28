@@ -68,7 +68,9 @@ Et il termina par une phrase étrange et mystèrieuse:
 > "Une échelle impossible à grimper pourrait se transformer en porte menant directement de l'autre coté. Cela dépendra des actions de chacun d'entre nous !"
 
 
-IMAGE
+![entrance][]
+
+[entrance]: images/entrance.png
 
 ---
 
