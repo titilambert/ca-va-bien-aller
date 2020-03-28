@@ -96,7 +96,7 @@ Puis Aroumba prévint:
 > "Lorsque que nous serons en haut de l'arc-en-ciel, nous pourrions tomber sur d'autres embuches ou pièges."
 
 Et il termina par une phrase étrange et mystèrieuse:
-> "Une échelle impossible à grimper pourrait se transformer en porte menant directement de l'autre coté. Cela dépendra des actions de chacun d'entre nous !"
+> "Une échelle impossible à grimper pourrait se transformer en porte menant directement de l'autre coté. Cela dépendra des actions de chacun d'entre nous..."
 
 ![entrance][]
 
