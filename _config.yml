@@ -11,3 +11,6 @@ theme: jekyll-theme-cayman
 title: Ca Va Bien Aller
 description: L'incroyable épreuve de tout un peuple
 show_downloads: false
+
+github:
+  is_project_page: false
