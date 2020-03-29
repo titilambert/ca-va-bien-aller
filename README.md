@@ -1,6 +1,6 @@
 # Il était une fois, ...
 
-... l'histoire d'un peuple qui se retrouva face à un immense défi. Il aller devoir traverser une terrible et dangereuse épreuve jamais vu auparavant.
+... l'histoire d'un peuple qui se retrouva face à un immense défi. Il aller devoir traverser une terrible et dangereuse épreuve jamais vue auparavant.
 
 ---
 
@@ -35,7 +35,7 @@ Les chefs mirent en garde le peuple:
 # La courbe de l'arc-en-ciel
 
 Tout de suite, Letto se metta au travail. Il travailla fort avec son marteau pour essayer applanir l'arc-en-ciel afin de faciliter l'ascension des gens à l'intérieur. 
-A chaque coup de marteau Letto demanda de l'aide au peuple:
+À chaque coup de marteau, Letto demanda de l'aide au peuple:
 
 D'abord,
 > "S'il vous plait, éviter de vous déplacer, en attendant de traverser l'arc-en-ciel"
@@ -44,7 +44,7 @@ Puis,
 > "Vous, qui donnez un peu de votre énergie vitale, pour que les Anges Gardiens puis en sauver d'autres, s'il vous plait, continuez !"
 
 Ensuite,
-> "Vous, qui avez de l'expérience dans le métier d'Ange Gardien, vous pouvez aider le peuple, rejoinez nous !"
+> "Vous, qui avez de l'expérience dans le métier d'Ange Gardien, vous pouvez aider notre peuple, rejoignez nous !"
 
 Et fini avec,
 > "Vous, qui êtes jeunes et en bonne santé, pouvez vous épauler les plus agés pour qu'ils puissent franchir l'arc-en-ciel plus facilement"
