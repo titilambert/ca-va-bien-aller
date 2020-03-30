@@ -1,6 +1,6 @@
-# Il était une fois, ...
+# Il était une fois,
 
-... l'histoire d'un peuple qui se retrouva face à un immense défi. Il aller devoir traverser une terrible et dangereuse épreuve jamais vue auparavant.
+L'histoire d'un peuple qui se retrouva face à un immense défi. Il allait devoir traverser une terrible et dangereuse épreuve jamais vue auparavant.
 
 ---
 
@@ -38,16 +38,16 @@ Tout de suite, Letto se metta au travail. Il travailla fort avec son marteau pou
 À chaque coup de marteau, Letto demanda de l'aide au peuple:
 
 D'abord,
-> "S'il vous plait, éviter de vous déplacer, en attendant de traverser l'arc-en-ciel"
+> "S'il-vous-plaît, éviter de vous déplacer, en attendant de traverser l'arc-en-ciel"
 
 Puis,
-> "Vous, qui donnez un peu de votre énergie vitale, pour que les Anges Gardiens puis en sauver d'autres, s'il vous plait, continuez !"
+> "Vous, qui donnez un peu de votre énergie vitale, pour que les Anges Gardiens puissent en sauver d'autres, s'il-vous-plaît, continuez !"
 
 Ensuite,
-> "Vous, qui avez de l'expérience dans le métier d'Ange Gardien, vous pouvez aider notre peuple, rejoignez nous !"
+> "Vous, qui avez de l'expérience dans le métier d'Ange Gardien, vous pouvez aider notre peuple, rejoignez-nous !"
 
 Et fini avec,
-> "Vous, qui êtes jeunes et en bonne santé, pouvez vous épauler les plus agés pour qu'ils puissent franchir l'arc-en-ciel plus facilement"
+> "Vous, qui êtes jeunes et en bonne santé, pouvez-vous épauler les plus âgés pour qu'ils puissent franchir l'arc-en-ciel plus facilement"
 
 
 ![LettoMarteau][]
@@ -76,11 +76,11 @@ Alors, le peuple commenca à se préparer pour l'escalade de l'arc-en-ciel et c'
 > "La montée dans l'arc-en-ciel sera très difficile !"
 
 Il poursuivi:
-> "Mais s'il vous plait, suivez ces trois conseils, cela facilitera les choses :"
+> "Mais s'il-vous-plait, suivez ces trois conseils, cela facilitera les choses :"
 
 > "1. Nous devons nous laver les mains avant de monter dans l'arc-en-ciel !"
 
-> "2. Nous ne pouvons pas tous embarquer en même temps de l'arc-en-ciel. Alors, allons y petit à petit en laissant une distance de sécurité en chaque personne !"
+> "2. Nous ne pouvons pas tous embarquer en même temps dans l'arc-en-ciel. Alors, allons-y petit à petit en laissant une distance de sécurité en chaque personne !"
 
 > "3. Nous aurons besoin de force, alors mangeons des tartelettes portugaises !"
 
@@ -93,7 +93,7 @@ Il poursuivi:
 # L'ascension
 
 Puis Aroumba prévint:
-> "Lorsque que nous serons en haut de l'arc-en-ciel, nous pourrions tomber sur d'autres embuches ou pièges."
+> "Lorsque que nous serons en haut de l'arc-en-ciel, nous pourrions tomber sur d'autres embûches ou pièges."
 
 Et il termina par une phrase étrange et mystèrieuse:
 > "Une échelle impossible à grimper pourrait se transformer en porte menant directement de l'autre coté. Cela dépendra des actions de chacun d'entre nous..."
